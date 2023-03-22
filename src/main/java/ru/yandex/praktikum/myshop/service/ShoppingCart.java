@@ -25,7 +25,8 @@ public class ShoppingCart {
         }
         return totalPrice;
     }
-    public double getTotalPriceIsVegetarian(){
+
+    public double getTotalPriceIsVegetarian() {
         double totalPrice = 0;
         for (int i = 0; i < food.length; i++) {
             totalPrice = totalPrice + food[i].getTotalPriceIsVegetarian();
@@ -33,6 +34,6 @@ public class ShoppingCart {
         return totalPrice;
     }
 
-    }
+}
 
 

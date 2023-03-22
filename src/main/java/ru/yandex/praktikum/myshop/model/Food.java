@@ -18,7 +18,7 @@ public abstract class Food implements Discountable {
         if (getDiscount() == 0) {
             return getTotalPrice();
         }
-        return getTotalPrice()-(getDiscount() / 100 * getTotalPrice());
+        return getTotalPrice() - (getDiscount() / 100 * getTotalPrice());
     }
 
     public double getTotalPriceIsVegetarian() {

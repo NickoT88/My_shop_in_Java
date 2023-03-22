@@ -13,7 +13,7 @@
 
  <br /> Тестирование веб-приложения. 
     <br />
-    <a href="https://github.com/NickoT88/Myshop"><strong>Explore the docs</strong></a>
+    <a href="https://github.com/NickoT88/My_shop_in_Java"><strong>Explore the docs</strong></a>
     <br />
   </p>
 </div>
@@ -41,7 +41,6 @@
 * <a href="https://www.java.com/ru/">Java 11</a>
 * <a href="https://junit.org/junit4/">Junit 4</a>
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTACT -->
 
@@ -49,6 +48,6 @@
 
 Николай Токарев - [@tokarevnickolay](https://t.me/tokarevnickolay) - Tibibo88@yandex.ru
 
-Project Link: [https://github.com/NickoT88/Diplom_2](https://github.com/NickoT88/Diplom_2)
+Project Link: [https://github.com/NickoT88/My_shop_in_Java](https://github.com/NickoT88/My_shop_in_Java)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

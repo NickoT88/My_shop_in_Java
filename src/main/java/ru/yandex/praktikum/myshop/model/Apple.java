@@ -9,13 +9,13 @@ public class Apple extends Food {
     public Apple(int amount, double price, String colour) {
         super.amount = amount;
         super.price = price;
-        this.colour=colour;
+        this.colour = colour;
         super.isVegetarian = true;
     }
 
     @Override
     public double getDiscount() {
-        if (colour.equals (RED)) {
+        if (colour.equals(RED)) {
             return GET_DISCOUNT;
         }
         return 0;
